@@ -1,1 +1,2 @@
 this is index2, and is branch master
+and is edited by brnch master
